@@ -20,5 +20,6 @@ A few days behind because of life children school and wifehood but making headwa
 
 ### R1D4
 Working through:
-adding images to screen (sum:the img element can use scrn attribute to point to the image that youi wanted displayed 
+-adding images to screen (sum:the img element can use scrn attribute to point to the image that youi wanted displayed 
+-adding borders around 
 
